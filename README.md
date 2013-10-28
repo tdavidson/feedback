@@ -4,7 +4,7 @@ In 2011 I was impressed by Phin Barnes' [feedback survey](http://www.sneakerhead
 
 In 2013 I created my own anonymous survey to see how I've done on my own "product". I used a lot of Phin's basic structure and added a couple wrinkles specific to me (good ideas deserve to be appropriated), and focused on the initial meeting product (not the VC support product), focusing types of things that matter in that context, including timeliness, preparedness, responsiveness, etc.
 
-I published the aggregated results, and you can the results on my site at [Feedback Survey](http://taylordavidson.com/2013/feedback).
+I published the aggregated results at [Founder Feedback Survey Responses](http://taylordavidson.com/2013/feedback).
 
 I decided to share the survey struture on Github because I wanted to make it easy for anyone to copy and create their own, adding their own questions and ideas to it.
 
