@@ -49,7 +49,7 @@ You are receiving this survey because we have met over the past year, whether in
 - Not at all ("you never responded or followed up")
 
 ####Would you recommend me to colleague or a friend?
-Scale of 1 to 10, 10 being "Definitely" and 1 being "Not at all"
+Scale of 1 to 10, 10 being "Definitely" and 1 being "Very unlikely"
 
 ####What did I do particularly well?
 Open text box for responses
