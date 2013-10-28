@@ -9,6 +9,6 @@ I published the aggregated results, and you can the results on my site at [Feedb
 
 I decided to share the survey on Github because I wanted to make it easy for anyone to copy and create their own, adding their own questions and ideas to it.
 
-You can read the survey questions and structure [here on Github](https://github.com/tdavidson/feedback/blob/master/survey), and you can copy the live form [here on Google Docs](https://docs.google.com/a/taylordavidson.com/forms/d/1JCJXVDlNChe54IJxOSoaas64vH0xX8kvzb-uja6WYxM/edit).
+You can read the survey questions and structure [here on Github](https://github.com/tdavidson/feedback/blob/master/survey).
 
 Enjoy.
