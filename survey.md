@@ -11,11 +11,11 @@ You are receiving this survey because we have met over the past year, whether in
 
 ####How prepared was I for the meeting?
 
-Extremely ("you asked great questions that helped me think about my business")
-More than most ("you understood my business before we started the pitch")
-Somewhat ("you had some understanding of the business")
-Not very ("you knew who introduced us, but that was it")
-Not at all ("you had no idea who I was or what I was working on")
+-Extremely ("you asked great questions that helped me think about my business")
+-More than most ("you understood my business before we started the pitch")
+-Somewhat ("you had some understanding of the business")
+-Not very ("you knew who introduced us, but that was it")
+-Not at all ("you had no idea who I was or what I was working on")
 
 ####Was the meeting valuable for you?
 
