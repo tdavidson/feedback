@@ -4,10 +4,10 @@ You are receiving this survey because we have met over the past year, whether in
 
 ####Why did we meet?
 
-Another entrepreneur suggested we meet
-Another investor suggested we meet
-A colleague at my fund introduced us
-Your experience and background seemed interesting and valuable
+- Another entrepreneur suggested we meet
+- Another investor suggested we meet
+- A colleague at my fund introduced us
+- Your experience and background seemed interesting and valuable
 
 ####How prepared was I for the meeting?
 
