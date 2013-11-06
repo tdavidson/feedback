@@ -8,6 +8,6 @@ I published the aggregated results at [Founder Feedback Survey Responses](http:/
 
 I decided to share the survey struture on Github because I wanted to make it easy for anyone to copy and create their own, adding their own questions and ideas to it.
 
-You can read the survey questions and structure [here on Github](https://github.com/tdavidson/feedback/blob/master/survey).
+You can read the survey questions and structure [here on Github](https://github.com/tdavidson/feedback/blob/master/survey.md).
 
 Enjoy.
